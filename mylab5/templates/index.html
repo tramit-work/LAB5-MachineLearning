@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SVM Plots</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff; 
+            color: #333; 
+            text-align: center; 
+            padding: 20px;
+        }
+        h1 {
+            color: #4A90E2; 
+            margin-bottom: 30px;
+        }
+        h2 {
+            color: #D9534F; 
+            margin: 20px 0 10px;
+        }
+        .plot-container {
+            display: flex;
+            justify-content: center; 
+            gap: 20px; 
+            margin-bottom: 30px;
+        }
+        img {
+            max-width: 300px; 
+            height: auto;
+            border: 2px solid #ccc;
+            border-radius: 8px; 
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); 
+        }
+    </style>
+    {% load static %}
+</head>
+<body>
+    <h1>SUPPORT VECTOR MACHINE</h1>
+
+    <div class="plot-container">
+        <div>
+            <h2>Hard Margin</h2>
+            <img id="hard-margin-plot" src="{% static 'photos/hard_margin_plot.png' %}" alt="Hard Margin Plot">
+        </div>
+        <div>
+            <h2>Soft Margin</h2>
+            <img id="soft-margin-plot" src="{% static 'photos/soft_margin_plot.png' %}" alt="Soft Margin Plot">
+        </div>
+    </div>
+
+    <script>
+        document.getElementById("hard-margin-plot").src = "data:image/png;base64,{{ hard_plot }}";
+        document.getElementById("soft-margin-plot").src = "data:image/png;base64,{{ soft_plot }}";
+    </script>
+</body>
+</html>

@@ -16,7 +16,7 @@
   <img src="https://github.com/tramit-work/LAB5-MachineLearning/blob/main/mylab5/static/photos/photo2.png" alt="Kết quả SVM">
 </p>
 
-## 4. Đối Với Các Bài Toán Có Sự So Sánh
+## 4. Bài tập thêm
 <p align="center">
   <img src="https://github.com/tramit-work/LAB5-MachineLearning/blob/main/mylab5/static/photos/photo3.png" alt="Kết quả so sánh SVM">
 </p>

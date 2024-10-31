@@ -7,14 +7,15 @@
 **SVM (Support Vector Machine)** là một thuật toán học máy phổ biến, được sử dụng cho cả phân loại và hồi quy. Thuật toán này hoạt động bằng cách tìm ra một siêu phẳng (hyperplane) tối ưu để phân tách các lớp dữ liệu trong không gian nhiều chiều.
 **VD:**
 <p align="center">
-  <img src="https://datatron.com/wp-content/uploads/2021/05/Support-Vector-Machine.png" alt="Kết quả SVM">
+  <img src="https://datatron.com/wp-content/uploads/2021/05/Support-Vector-Machine.png" alt="Support Vector Machines (SVM) Made Simple & How To Tutorial">
+
 ### Công Thức
 - **Hard Margin**: Yêu cầu tất cả các điểm dữ liệu phải nằm hoàn toàn ở một bên của siêu phẳng. Không có điểm nào được phép nằm trong khoảng an toàn gần siêu phẳng.
   
 - **Soft Margin**: Cho phép một số điểm dữ liệu nằm gần hoặc thậm chí vượt qua siêu phẳng. Nó chấp nhận một số lỗi phân loại.
 **Ví dụ:**
 <p align="center">
-  <img src="https://www.researchgate.net/publication/356551692/figure/fig2/AS:1094438449360942@1637945868697/Hard-margin-and-soft-margin-SVM-segmentation-hyperplane.jpg" alt="Kết quả SVM">
+  <img src="https://miro.medium.com/v2/resize:fit:552/1*CD08yESKvYgyM7pJhCnQeQ.png" alt="Math behind SVM(Support Vector Machine) | by MLMath.io | Medium">
 </p>
 ## 3. Hiển Thị Kết Quả Lên Website
 <p align="center">

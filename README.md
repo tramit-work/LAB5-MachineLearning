@@ -8,7 +8,9 @@
 **VD:**
 <p align="center">
   <img src="https://datatron.com/wp-content/uploads/2021/05/Support-Vector-Machine.png" alt="Support Vector Machines (SVM) Made Simple & How To Tutorial">
-
+<p align="right">
+  <em>Support Vector Machines (SVM) Made Simple & How To Tutorial</em>
+</p>
 ### Công Thức
 - **Hard Margin**: Yêu cầu tất cả các điểm dữ liệu phải nằm hoàn toàn ở một bên của siêu phẳng. Không có điểm nào được phép nằm trong khoảng an toàn gần siêu phẳng.
   
@@ -16,6 +18,9 @@
 **Ví dụ:**
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:552/1*CD08yESKvYgyM7pJhCnQeQ.png" alt="Math behind SVM(Support Vector Machine) | by MLMath.io | Medium">
+</p>
+<p align="right">
+  <em>Math behind SVM(Support Vector Machine) | by MLMath.io | Medium</em>
 </p>
 ## 3. Hiển Thị Kết Quả Lên Website
 <p align="center">

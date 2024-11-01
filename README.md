@@ -1,7 +1,13 @@
 # LAB 5 - Machine Learning
 
 ## 1. Công Nghệ Sử Dụng
-- **Framework**: cvxopt, numpy, matplotlib, django, io, base64, ...
+- **Frameworks**: 
+  - `cvxopt`
+  - `numpy`
+  - `matplotlib`
+  - `django`
+  - `io`
+  - `base64`
 
 ## 2. Thuật Toán
 **SVM (Support Vector Machine)** là một thuật toán học máy phổ biến, được sử dụng cho cả phân loại và hồi quy. Thuật toán này hoạt động bằng cách tìm ra một siêu phẳng (hyperplane) tối ưu để phân tách các lớp dữ liệu trong không gian nhiều chiều.

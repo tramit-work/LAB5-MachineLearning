@@ -28,6 +28,7 @@
 <p align="right">
   <em>Math behind SVM(Support Vector Machine) | by MLMath.io | Medium</em>
 </p>
+
 ## 3. Hiển Thị Kết Quả Lên Website
 <p align="center">
   <img src="https://github.com/tramit-work/LAB5-MachineLearning/blob/main/mylab5/static/photos/photo2.png" alt="Kết quả SVM">
